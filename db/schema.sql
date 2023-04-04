@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS Dev_Thoughts;
+
+CREATE DATABASE Dev_Thoughts;
